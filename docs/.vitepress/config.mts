@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  base:"/cours/",
+  base:"/08C-Projet-Prog/",
   lang: 'fr-CA',
   cleanUrls: true,
   title: "420-08C-FX",

@@ -92,7 +92,7 @@ Revisitez votre récit principal après avoir réalisé les autres section.
     - En tant qu’usager, je veux pouvoir rechercher un livre par titre, auteur ou catégorie afin de trouver rapidement les ouvrages disponibles.
     - etc.
 - Vous devrez créer ces récits dans votre outil de gestion de projet (GitHub Project).
-  - Les récits doivent tous être sous la colonne Backlog. Ils seront placés dans les sprints lors des planifications de sprint.
+  - Les récits doivent tous être sous la colonne Backlog. Ils seront déplacés durant les sprints lors des planifications de sprint.
 - Identification des dépendances (quelles tâches doivent précéder les autres)
 
 Exemple de tableau à inclure à votre remise:
@@ -112,7 +112,7 @@ Exemple de tableau à inclure à votre remise:
 - Lien vers le tableau **Kanban** (GitHub Projects).  
   - Votre tableau doit contenir les colonnes : `Backlog`, `À faire`, `En cours`, `Terminée`, `Bogues et finition`  
 - Lien vers le dépôt GitHub  
-  - Vous devez ajouter mon utilisateur **oliviertremblay** dans votre répertoire ET votre projet  
+  - Vous devez ajouter mon utilisateur `imane-mez` dans votre répertoire ET votre projet  
 
 ---
 
@@ -128,10 +128,11 @@ Exemple de tableau à inclure à votre remise:
 - Présentation structurée avec titres et sous-titres  
 
 ::: warning Date limite
-Vendredi **12 septembre à 16h00**  
+**Groupe 1 :** Jeudi 5 février à **09h00**  
+**Groupe 2 :** Lundi 2 février à **15h00**  
 Pénalité : -10 % par jour de retard (maximum 3 jours)
 :::
 
-::: tip Rappel
+::: tip Grille de correction
 [Voir la grille de correction avec critères détaillés.](../grilles/grille-planif-projet.md)
 :::

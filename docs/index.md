@@ -3,7 +3,7 @@ layout: home
 title: 420-08C-FX — Projet prog
 hero:
   name: 420-08C-FX
-  text: Projet d’approfondissement en programmation — Automne 2025
+  text: Projet d’approfondissement en programmation — Hiver 2026
   tagline: Énoncés, grilles, calendrier et ressources
   image:
     src: /logos/logo.png
@@ -20,7 +20,7 @@ actions:
       link: /grilles
     - theme: alt
       text: ⏰ Horaires
-      link: /horaires
+      # link: /horaires
 
 features:
   - icon: 📖
@@ -33,26 +33,26 @@ features:
     details: Énoncé et modèle à copier pour démarrer.
     link: /enonces/planif-projet
     linkText: Énoncé
-  - icon: 🛠️
-    title: Planification de sprint
-    details: Objectifs, backlog et critères de complétion.
-    link: /enonces/planif-sprint
-    linkText: Énoncé
-  - icon: 📊
-    title: Rapport de fin de sprint
-    details: Livrables, rétroaction et diagramme de classes.
-    link: /enonces/fin-sprint
-    linkText: Énoncé
-  - icon: ✅
-    title: Finalisation du projet
-    details: Stabilisation, documentation et release .exe.
-    link: /enonces/finalisation
-    linkText: Énoncé
-  - icon: 🎤
-    title: Présentation finale
-    details: Déroulement et conseils pour une démo efficace.
-    link: /enonces/presentation-finale
-    linkText: Lire
+  # - icon: 🛠️
+  #   title: Planification de sprint
+  #   details: Objectifs, backlog et critères de complétion.
+  #   link: /enonces/planif-sprint
+  #   linkText: Énoncé
+  # - icon: 📊
+  #   title: Rapport de fin de sprint
+  #   details: Livrables, rétroaction et diagramme de classes.
+  #   link: /enonces/fin-sprint
+  #   linkText: Énoncé
+  # - icon: ✅
+  #   title: Finalisation du projet
+  #   details: Stabilisation, documentation et release .exe.
+  #   link: /enonces/finalisation
+  #   linkText: Énoncé
+  # - icon: 🎤
+  #   title: Présentation finale
+  #   details: Déroulement et conseils pour une démo efficace.
+  #   link: /enonces/presentation-finale
+  #   linkText: Lire
   - icon: 🧩
     title: Modèles à copier
     details: Fichiers de départ pour les livrables.

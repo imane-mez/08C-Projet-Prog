@@ -67,4 +67,4 @@
 - **Tableau Kanban (GitHub Projects)** : [Lien ici]  
   - Colonnes obligatoires : Backlog | À faire | En cours | Terminée | Bogues  
 - **Dépôt GitHub** : [Lien ici]  
-  - Ajouter l’utilisateur `oliviertremblay`
+  - Ajouter l’utilisateur `imane-mez`

@@ -50,7 +50,8 @@ Revisitez votre récit principal après avoir réalisé les autres section.
 
 - **Minimum requis** :  
   - **Intégration de sons, d’images et de vidéos** (pas de liens Youtube) 
-  - Persistance des données (dans un fichier ou une base de données) 
+  - Persistance des données (dans un fichier ou une base de données). 
+    - Dans le cas où une base de données est utilisée et afin de faciliter le déploiement, celle-ci devra être embarquée (exemple SQLite avec DB Browser comme application client pour gérer la BD).
   - **Formulaires**  
     - Par exemple:
     - Un formulaire offrant à l’utilisateur une personnalisation de l’interface (couleurs, polices, etc.) ; l’information recueillie étant consignée dans un fichier de préférences (ex.: AppSettings.json).

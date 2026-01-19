@@ -86,7 +86,7 @@ Chaque utilisateur a un objectif spécifique en utilisant la recherche.
 
 ## Exercice
 
-Vous travaillez dans une équipe qui développe une application web pour une bibliothèque municipale. Cette application doit permettre aux bibliothécaires de gérer les emprunts et aux usagers de rechercher et emprunter des livres.
+Vous travaillez dans une équipe qui développe une application web pour une bibliothèque municipale. Cette application doit permettre aux bibliothécaires de gérer les emprunts, aux usagers de rechercher et emprunter des livres et aux administrateurs de gérer les utilisateurs.
 
 ### Énoncé du besoin
 L'application devra offrir plusieurs fonctionnalités :
@@ -101,7 +101,7 @@ L'application devra offrir plusieurs fonctionnalités :
 - Les administrateurs doivent pouvoir gérer les comptes utilisateurs (ajouter/supprimer des usagers et bibliothécaires).
 
 ### Consignes 
-1) Identifiez les acteurs de l'application (ex. : usager, bibliothécaire, administrateur).
+1) Identifiez les acteurs de l'application.
 2) Rédigez les récits utilisateur pour chaque fonctionnalité en utilisant la structure suivante :
 **"En tant que [`type d'utilisateur`], je veux [`action`] afin de [`bénéfice attendu`]."**
 3) Ajoutez des critères d’acceptation pour **au moins 3 récits**.

@@ -36,7 +36,7 @@ export default defineConfig({
       {
         text: 'Ressources',
         items: [
-          { text: 'Agile & Scrum', link: '/ressources/agile-scrum' },
+          // { text: 'Agile & Scrum', link: '/ressources/agile-scrum' },
           { text: 'Récits utilisateur', link: '/ressources/userstory' },
           // { text: 'GitHub Project', link: '/ressources/github-project' },
           // { text: 'GitHub Project - Guide', link: '/ressources/github-project-guide' },
@@ -90,7 +90,7 @@ export default defineConfig({
       {
         text: 'Ressources',
         items: [
-          { text: 'Agile & Scrum', link: '/ressources/agile-scrum' },
+          // { text: 'Agile & Scrum', link: '/ressources/agile-scrum' },
           { text: 'Récits utilisateur', link: '/ressources/userstory' },
           // { text: 'GitHub Project', link: '/ressources/github-project' },
           // { text: 'GitHub Project - Guide', link: '/ressources/github-project-guide' },

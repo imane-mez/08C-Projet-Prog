@@ -46,9 +46,11 @@ C’est un outil pratique pour organiser vos récits utilisateurs, vos tâches e
    ![Exemple de tableau avec colonnes complètes](../img/project-7.png)
 
 2. Choisissez entre :
-   - **Create new issue** (lié au dépôt GitHub)  
-   - **Create a draft** (si vous ne voulez pas travailler avec des Issues)  
+   - **Create a draft** (Utile pendant la planification pour lister les idées initiales)  
    ![Créer un nouvel item ou un draft](../img/project-8.png) 
+   - **Create new issue** (lié au dépôt GitHub)  
+
+*Pendant la planification du projet, vous allez créer les récits utilisateurs comme des "drafts". Ensuite, pendant la planification d'un sprint, vous les convertirez en "issues" afin de commencer le développement*
 
 ---
 

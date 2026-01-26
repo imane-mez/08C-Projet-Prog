@@ -11,7 +11,13 @@ export default defineConfig({
     logo: './logos/logo.png',
     nav: [
       { text: 'Calendrier', link: '/calendrier' },
-      { text: 'Horaires', link: '' },
+      { text: 'Horaires de rencontres', 
+        // { text: 'Horaires', link: '/horaires' },
+        items: [
+          { text: 'Groupe 1', link: '/horaires-g1' },
+          { text: 'Groupe 2', link: '/horaires-g2' }
+        ]
+      },
       // { text: 'Horaires', link: '/horaires' },
       { 
         text: 'Énoncés',
@@ -36,10 +42,10 @@ export default defineConfig({
       {
         text: 'Ressources',
         items: [
-          // { text: 'Agile & Scrum', link: '/ressources/agile-scrum' },
           { text: 'Récits utilisateur', link: '/ressources/userstory' },
-          // { text: 'GitHub Project', link: '/ressources/github-project' },
-          // { text: 'GitHub Project - Guide', link: '/ressources/github-project-guide' },
+          { text: 'Agile & Scrum', link: '/ressources/agile-scrum' },
+          { text: 'GitHub Project', link: '/ressources/github-project' },
+          { text: 'GitHub Project - Guide', link: '/ressources/github-project-guide' },
           // { text: 'Normes de commentaires', link: '/ressources/normes_commentaires' },
           // { text: 'Normes de nomenclature', link: '/ressources/normes_nomenclature_code' },
           // { text: 'Diagrammes de classes', link: '/ressources/diagrammes-de-classes' },
@@ -53,9 +59,14 @@ export default defineConfig({
         text: 'Documents généraux',
         items: [
           { text: 'Plan de cours', link: '/plan-de-cours' },
-          { text: 'Calendrier', link: '/calendrier' },
-          { text: 'Horaires', link: '' }
-          // { text: 'Horaires', link: '/horaires' }
+          { text: 'Calendrier', link: '/calendrier' }
+        ]
+      },
+      {
+        text: 'Horaires de rencontres',
+        items: [
+          { text: 'Groupe 1', link: '/horaires-g1' },
+          { text: 'Groupe 2', link: '/horaires-g2' }
         ]
       },
       {
@@ -90,10 +101,10 @@ export default defineConfig({
       {
         text: 'Ressources',
         items: [
-          // { text: 'Agile & Scrum', link: '/ressources/agile-scrum' },
           { text: 'Récits utilisateur', link: '/ressources/userstory' },
-          // { text: 'GitHub Project', link: '/ressources/github-project' },
-          // { text: 'GitHub Project - Guide', link: '/ressources/github-project-guide' },
+          { text: 'Agile & Scrum', link: '/ressources/agile-scrum' },
+          { text: 'GitHub Project', link: '/ressources/github-project' },
+          { text: 'GitHub Project - Guide', link: '/ressources/github-project-guide' },
           // { text: 'Normes de commentaires', link: '/ressources/normes_commentaires' },
           // { text: 'Normes de nomenclature', link: '/ressources/normes_nomenclature_code' },
           // { text: 'Diagrammes de classes', link: '/ressources/diagrammes-de-classes' },

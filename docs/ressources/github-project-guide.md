@@ -7,9 +7,9 @@ C’est un outil pratique pour organiser vos récits utilisateurs, vos tâches e
 
 ## 1. Créer un nouveau projet
 
-1. Dans GitHub, cliquez sur l’onglet **Projects**. 
+1. Dans GitHub, à partir du dépôt de votre projet, cliquez sur l’onglet **Projects**. 
 2. Cliquez sur **New project**.   
-   ![Accéder aux projets et créer un nouveau projet](../img/project-1.png)
+   ![Accéder aux projets et créer un nouveau projet](../img/project-1bis.png)
 
 2. Choisissez le type **Board**.   
    ![Choisir le type Board](../img/project-2.png)

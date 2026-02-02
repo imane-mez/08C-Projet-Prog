@@ -33,16 +33,16 @@ features:
     details: Énoncé et modèle à copier pour démarrer.
     link: /enonces/planif-projet
     linkText: Énoncé
-  # - icon: 🛠️
-  #   title: Planification de sprint
-  #   details: Objectifs, backlog et critères de complétion.
-  #   link: /enonces/planif-sprint
-  #   linkText: Énoncé
-  # - icon: 📊
-  #   title: Rapport de fin de sprint
-  #   details: Livrables, rétroaction et diagramme de classes.
-  #   link: /enonces/fin-sprint
-  #   linkText: Énoncé
+  - icon: 🛠️
+    title: Planification de sprint
+    details: Objectifs, backlog et critères de complétion.
+    link: /enonces/planif-sprint
+    linkText: Énoncé
+  - icon: 📊
+    title: Rapport de fin de sprint
+    details: Livrables, rétroaction et diagramme de classes.
+    link: /enonces/fin-sprint
+    linkText: Énoncé
   # - icon: ✅
   #   title: Finalisation du projet
   #   details: Stabilisation, documentation et release .exe.

@@ -104,8 +104,8 @@ Les commentaires libres utilisent la syntaxe propre au langage :
 Les commentaires sont utiles pour expliquer **le pourquoi** d’une action, pas le **quoi** :
 - Boucles itératives à pas multiples.
 - Interruptions dans une boucle.
-- Classe incomplète : `TODO`
-- Implémentation précaire : `FIXME`
-- Prototypage : `HACK`
+- Fonctionalité incomplète ou tâche à terminer plus tard: `TODO`
+- Bogue connu ou une erreur logique à corriger impérativement : `FIXME`
+- Prototypage ou une solution bricolée qui fonctionne mais qui n'est pas propre : `HACK`
 
 > **Règle générale** : Rendez votre code lisible, structuré et intelligible grâce à des noms clairs et des commentaires pertinents.

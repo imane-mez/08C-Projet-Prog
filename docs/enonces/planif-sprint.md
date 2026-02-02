@@ -16,7 +16,7 @@ Pour ce travail de planification, vous devez produire un **document PDF**  struc
 2) Objectifs du sprint
 3) Backlog du sprint
 4) Critères de complétion
-5) Liens vers les outils
+5) Lien vers les outils
 
 ### Informations générales
 - Nom du projet  
@@ -37,8 +37,13 @@ Tableau présentant les récits prévus (en ordre de priorité) pour le sprint :
 - Vos récits doivent être complètement documentés selon les normes établies dans [Récits utilisateur](../ressources/userstory.md)
 - Vous devez aussi inclure une **capture d’écran** de l’état de votre tableau Kanban.  
 - Les récits à réaliser pour le sprint à venir devraient être dans la colonne **À faire**.
-- Les récits pourront être déplacés dans les colonnes subséquentes pendant la réalisation du sprint.  
-- Les récits non complétés à la fin du sprint devront être **replanifiés** dans le sprint suivant.  
+- Les récits doivent être converties de « draft » à « Issues ».
+- Vous devez ajouter les critères d'accepations à chaque récit utilisateur.
+- Vous devez ajouter la liste des sous-tâches du récit utilisateur sous forme de cases à cocher. Pendant le développement, c'est le développeur qui devra cocher ces cases.
+- Les récits pourront être déplacés dans les colonnes subséquentes pendant la réalisation du sprint. 
+- Un récit ne peut être déplacé dans la colonne **Terminée** avant sa présentation et validation au près du client (professeur).
+- Le jour de la présentation, un récit qui est jugé complété sera fermé et déplacé dans la colonne **Terminée**. 
+- Les récits non terminés devront être placés dans la colonne **Bogues et finitions** pour la période de finalisation du projet sauf si la réalisation du sprint suivant en dépend. Dans ce cas, et après concertation avec le professeur, ils devront être **replanifiés** pour le sprint suivant  
 
 ### Critères de complétion
 Liste des conditions permettant de considérer le sprint terminé avec succès.  
@@ -47,9 +52,8 @@ Exemple :
 « Le module de gestion de profil est accessible depuis le menu principal, permet la saisie et la sauvegarde des données dans le fichier de préférences et affiche un message de confirmation. »  
 
 ### Liens vers les outils
-- Lien vers le tableau Kanban dans l’outil de gestion de projet (GitHub Projects).  
+- Lien vers le dépôt GitHub avec le tableau Kanban (GitHub Projects).  
   > Conservez le même tableau pendant toute la durée du projet.  
-- Lien vers le dépôt GitHub.  
 
 ---
 
@@ -57,13 +61,11 @@ Exemple :
 - Le fichier de planification doit être remis **avant le début du sprint**.  
 - À remettre sur LÉA un PDF : `Planification_Sprint[numéro]_Nom1_Nom2.pdf`  
 - Rédaction claire, sans fautes majeures de français (-0,25 % par faute, max. 20 %).  
-- Présentation structurée avec titres et sous-titres.  
-- Date limite : indiquée dans LÉA pour le # de sprint concerné.  
-- Pénalité : **10 % (à la note globale du sprint) par jour de retard (max 3 jours).**  
+- Présentation structurée avec titres et sous-titres.
 
 ::: warning Date limite
 Indiquée dans LÉA pour le # de sprint concerné.    
-Pénalité : -10 % (à la note globale du sprint) par jour de retard (maximum 3 jours)
+Pénalité : -10 % à la planification du sprint (20% de la note du sprint) par jour de retard (max 3 jours).
 :::
 
 ::: warning Qualité du code

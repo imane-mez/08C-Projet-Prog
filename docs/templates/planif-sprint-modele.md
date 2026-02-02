@@ -31,13 +31,11 @@ Exemple :
 
 ---
 
-## Liens vers les outils
-- Tableau Kanban – GitHub Projects: (URL à insérer)  
-- Dépôt GitHub: (URL à insérer)  
-
+## Lien vers les outils
+- Dépôt GitHub: (URL à insérer)  en s'assurant que le tableau Kanban (GitHub Project) soit bien visible et mis à jour.
 ---
 
 ## Notes
 - Les récits doivent suivre le format **En tant que [utilisateur], je veux [fonctionnalité] afin de [bénéfice]**.  
 - Tout bogue découvert doit être ajouté dans la colonne **Bogues** du Kanban.  
-- Les récits non terminés devront être **replanifiés** au sprint suivant.  
+- Les récits non terminés devront être placés dans la colonne **Bogues et finitions** pour la période de finalisation du projet sauf si la réalisation du sprint suivant en dépend. Dans ce cas, et après concertation avec le professeur, ils devront être **replanifiés** pour le sprint suivant.  

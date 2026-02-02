@@ -27,7 +27,7 @@ Il doit montrer les **classes principales**, leurs **propriétés** et leurs **m
 ---
 
 ## Méthodes publiques
-- Seules les **méthodes publiques** doivent être indiquées.  
+- Seules les **méthodes publiques** doivent être indiquées. Vous présenterez ainsi un Diagramme d'Interface, utile pour avoir une vue de haut niveau de votre application.
 - Utiliser un verbe d’action clair dans le nom.  
 - Exemple :  
   - `+ SauvegarderPreferences()`  
@@ -65,13 +65,15 @@ Il doit montrer les **classes principales**, leurs **propriétés** et leurs **m
 
  ## Attentes pour vos rapports
 
-- Votre diagramme doit etre à jour a la fin de chaque sprint.
-- Les nouvelles classes ou modifications doivent etre clairement visibles (utiliser un outil de traitement d'image au besoin).
+- Votre diagramme doit être à jour a la fin de chaque sprint.
+- Les nouvelles classes ou modifications doivent être clairement visibles (utiliser un outil de traitement d'image au besoin).
 - Joindre une capture d’ecran lisible dans vos documents remis (planification, fin de sprint, finalisation).
 
 ## Outils gratuits recommandés
 
 Voici quelques solutions accessibles pour créer vos diagrammes de classes UML :
+
+- **Concepteur de classe** de Visual Studio.
 
 - **[draw.io (diagrams.net)](https://app.diagrams.net/)**  
   Outil gratuit en ligne, simple et efficace, exportable en image ou PDF.  

@@ -2,7 +2,7 @@
 
 ---
 
-## Planification du sprint (30%)
+## Planification du sprint (20%)
 
 | Niveau | Description                                                                 | Note |
 |--------|-----------------------------------------------------------------------------|------|
@@ -14,7 +14,7 @@
 
 ---
 
-## Suivi et déroulement (20%)
+## Suivi et déroulement (15%)
 
 | Niveau | Description                                                                 | Note |
 |--------|-----------------------------------------------------------------------------|------|
@@ -26,7 +26,7 @@
 
 ---
 
-## Fonctionnalités livrées et présentation (15%)
+## Fonctionnalités livrées et présentation (35%)
 
 | Niveau | Description                                                                 | Note |
 |--------|-----------------------------------------------------------------------------|------|
@@ -38,7 +38,7 @@
 
 ---
 
-## Qualité de la rétroaction et du diagramme (20%)
+## Qualité de la rétroaction et du diagramme (15%)
 
 | Niveau | Description                                                                 | Note |
 |--------|-----------------------------------------------------------------------------|------|

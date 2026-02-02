@@ -58,7 +58,7 @@ Exemple :
 ---
 
 ## Procédure de remise
-- Le fichier de planification doit être remis **avant le début du sprint**.  
+- Le fichier de planification pour le sprint 1 doit être remis **avant le début du sprint**.  
 - À remettre sur LÉA un PDF : `Planification_Sprint[numéro]_Nom1_Nom2.pdf`  
 - Rédaction claire, sans fautes majeures de français (-0,25 % par faute, max. 20 %).  
 - Présentation structurée avec titres et sous-titres.

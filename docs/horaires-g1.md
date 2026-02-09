@@ -8,11 +8,11 @@
 
 | Étudiant | Heure de passage |
 |----------|-----------------|
+| Yao, Yao Pascal Joseph | - |
 | Beaulieu, Charles | - |
 | Chabot, Jonathan | - |
 | Coulombe, Justin | - |
-| Desmarquis, William | - |
-| Khaled-Khodja, Amine | - |
+| Desmarquis, William & Khaled-Khodja, Amine | - |
 | Lampre, Marco Alessandro | - |
 | Langevin, Olivier | - |
 | Lemeshevskyy, Bogdan | - |
@@ -24,5 +24,5 @@
 | Poirier, Noah | - |
 | Ruel, Pierre-Alexandre | - |
 | Simo Tchuenta, Franck Ivan | - |
-| Yao, Yao Pascal Joseph | - |
+
 

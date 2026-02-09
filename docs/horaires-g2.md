@@ -6,8 +6,9 @@
 
 | Étudiant | Heure de passage |
 |----------|-----------------|
+| Pabon, Carlos Fernando | - |
 | Allao, Oulfath | - |
-| Beaupré, Nicolas | - |
+| Beaupré, Nicolas & Simard, Charles-Antoine | - |
 | Belleau, Brian | - |
 | Bisson, Maude | - |
 | Buyens, Arthur | - |
@@ -15,9 +16,6 @@
 | Duclos, Louis-Philip | - |
 | Gagnon, Elliot | - |
 | Georges, Eugénio Junior | - |
-| Lachhab, Taoufik | - |
+| Lachhab, Taoufik & Saiah, Houssem | - |
 | Martins Trautmann, Gustavo | - |
 | Ngapdo Mbogning, Glawdys | - |
-| Pabon, Carlos Fernando | - |
-| Saiah, Houssem | - |
-| Simard, Charles-Antoine | - |

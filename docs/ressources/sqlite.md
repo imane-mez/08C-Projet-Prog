@@ -33,9 +33,17 @@ Pour se connecter à une BD `SQLite`, il existe plusieurs packages `NuGet` mais 
 ```c#
 using Microsoft.Data.Sqlite;
 ```
-- Dans la chaîne de connexion, il suffit de spécifier le chemin physique du fichier de base de données (contrairement à MySQL où il faut spécifier les paramètres de connexion au serveur):
-```c#
-string chaineDeConnexion = @"Data Source=C:\...\ProjetSQLiteDB\Data\mabase.db;";
+- Dans la chaîne de connexion, il suffit de spécifier le chemin relatif du fichier de base de données (contrairement à MySQL où il faut spécifier les paramètres de connexion au serveur):
+```json
+{
+  "ConnectionStrings": {
+    "DefaultConnection": "Data Source=Data/mabase.db"
+  }
+}
 ```
+Il faut aussi changer les propriétés du fichier `.db`pour que la BD soit copiée dans le dossier `bin/Debug/`au moment de l'exécution du programme.
+- Action de génération : Contenu.
+- Copier dans le répertoire de sortie : Copier si plus récent.
+![Copie de la bd dans le bin](../img/copie-BD-dans-bin.png)<br>
 *Conseil : Pour un code propre, il est recommandé de placer le fichier de base de données (.db) à l'intérieur d'un dossier Data se trouvant à la racine du projet.*
 - Le reste des instructions (création de la connexion, préparation d'une commande SQL, l'exécuter ...) devraient être identiques à celles de `MySQL Connector`. Au besoin, veuillez consulter la documentation officielle de **[Microsoft Data SQLite](https://learn.microsoft.com/en-us/dotnet/standard/data/sqlite/)**.

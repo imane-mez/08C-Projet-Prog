@@ -65,7 +65,7 @@ Exemple :
 
 ::: warning Date limite
 Indiquée dans LÉA pour le # de sprint concerné.    
-Pénalité : -10 % à la planification du sprint (20% de la note du sprint) par jour de retard (max 3 jours).
+Pénalité : -10 % à la planification du sprint (20% de la note gloable du sprint) par jour de retard (max 3 jours).
 :::
 
 ::: warning Qualité du code

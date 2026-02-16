@@ -8,6 +8,7 @@
 
 | Étudiant | Heure de passage |
 |----------|-----------------|
+| Simo Tchuenta, Franck Ivan | - |
 | Yao, Yao Pascal Joseph | - |
 | Beaulieu, Charles | - |
 | Chabot, Jonathan | - |
@@ -23,6 +24,6 @@
 | Parent, Alek | - |
 | Poirier, Noah | - |
 | Ruel, Pierre-Alexandre | - |
-| Simo Tchuenta, Franck Ivan | - |
+
 
 

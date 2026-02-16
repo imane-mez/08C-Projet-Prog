@@ -23,7 +23,7 @@ La base de données est un fichier avec l'extension **.db**. Vous pouvez le cré
 ![Éditeur de requête SQL](../img/sql-dbeaver.png)
 
 ## Connexion à partir d'un projet C#
-Pour se connecter à une BD `SQLite`, il existe plusieurs packages `NuGet` mais je vous recommande d'utiliser le package officiel de Microsoft pour sa légèreté et sa popularité.
+Pour interagir avec une BD `SQLite` à partir d'un projet en C#, il existe plusieurs packages `NuGet` mais je vous recommande d'utiliser le package officiel de Microsoft pour sa légèreté et sa popularité.
 1. Vous aurez besoin d'ajouter les 2 packages suivants à votre projet :
 - [Microsoft.Data.Sqlite](https://www.nuget.org/packages/Microsoft.Data.Sqlite.Core)
 - [SQLitePCLRaw.bundle_e_sqlite3](https://www.nuget.org/packages/sqlitepclraw.bundle_e_sqlite3/)

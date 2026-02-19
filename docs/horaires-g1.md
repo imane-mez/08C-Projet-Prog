@@ -1,29 +1,20 @@
 # ⏰ Horaires des rencontres et des présentations
 
-<!-- - <a href="https://livecegepfxgqc-my.sharepoint.com/:x:/r/personal/imezianetani_cegepgarneau_ca/_layouts/15/doc2.aspx?sourcedoc=%7B20821EDF-D5EF-479E-8014-CC4F0195733A%7D&file=Book.xlsx&action=editNew&mobileredirect=true&wdOrigin=OFFICECOM-WEB.APPBAR%2CAPPHOME-WEB.UNAUTH%2CAPPHOME-WEB.BANNER.NEWBLANK&wdPreviousSession=916d9c4a-b0f1-4c33-9e83-84cc1819ef9e&wdPreviousSessionSrc=AppHomeWeb&ct=1768926870424" target="_blank">Horaires</a> -->
-
-<!-- <iframe src="https://livecegepfxgqc-my.sharepoint.com/:x:/r/personal/imezianetani_cegepgarneau_ca/_layouts/15/doc2.aspx?sourcedoc=%7B20821EDF-D5EF-479E-8014-CC4F0195733A%7D&file=Book.xlsx&action=editNew&mobileredirect=true&wdOrigin=OFFICECOM-WEB.APPBAR%2CAPPHOME-WEB.UNAUTH%2CAPPHOME-WEB.BANNER.NEWBLANK&wdPreviousSession=916d9c4a-b0f1-4c33-9e83-84cc1819ef9e&wdPreviousSessionSrc=AppHomeWeb&ct=1768926870424"></iframe> -->
-
-## Groupe 1
+## Groupe 1 - Présentations du Sprint 1
 
 | Étudiant | Heure de passage |
 |----------|-----------------|
-| Simo Tchuenta, Franck Ivan | - |
-| Yao, Yao Pascal Joseph | - |
-| Beaulieu, Charles | - |
-| Chabot, Jonathan | - |
-| Coulombe, Justin | - |
-| Desmarquis, William & Khaled-Khodja, Amine | - |
-| Lampre, Marco Alessandro | - |
-| Langevin, Olivier | - |
-| Lemeshevskyy, Bogdan | - |
-| Manzi, Josiane | - |
-| Mitikoya Mayle, Junior | - |
-| Moreno Caro, Santiago | - |
-| Nkami Jugnia, Emmanuelle Christie | - |
-| Parent, Alek | - |
-| Poirier, Noah | - |
-| Ruel, Pierre-Alexandre | - |
-
-
-
+| Ruel, Pierre-Alexandre | 9:00 - 9:10 |
+| Simo Tchuenta, Franck Ivan | 9:12 - 9:22 |
+| Yao, Yao Pascal Joseph | 9:24 - 9:34 |
+| Beaulieu, Charles | 9:36 - 9:46 |
+| Coulombe, Justin | 9:48 - 9:58 |
+| Desmarquis, William | 10:00 - 10:10 |
+| Lampre, Marco Alessandro | 10:12 - 10:22 |
+| Langevin, Olivier | 10:24 - 10:34 |
+| Lemeshevskyy, Bogdan | 10:36 - 10:46 |
+| Manzi, Josiane | 10:48 - 10:58 |
+| Mitikoya Mayle, Junior | 11:00 - 11:10 |
+| Moreno Caro, Santiago | 11:12 - 11:22 |
+| Nkami Jugnia, Emmanuelle Christie | 11:24 - 11:34 |
+| Poirier, Noah | 11:36 - 11:46 |

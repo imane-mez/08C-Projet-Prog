@@ -1,6 +1,6 @@
 # ⏰ Horaires des rencontres et des présentations
 
-## Groupe 1 - Présentations du Sprint 1
+## Groupe 1 
 
 | Étudiant | Heure de passage |
 |----------|-----------------|

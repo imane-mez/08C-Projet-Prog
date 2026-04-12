@@ -4,11 +4,11 @@
 
 | Étudiant | Heure de passage |
 |----------|-----------------|
-| Djabia, Minsi Côme Maximilien | - |
-| Georges, Eugénio Junior | - |
-| Lachhab, Taoufik & Saiah, Houssem | - |
-| Ngapdo Mbogning, Glawdys | - |
-| Allao, Oulfath | - |
-| Beaupré, Nicolas & Simard, Charles-Antoine | - |
-| Belleau, Brian | - |
-| Bisson, Maude | - |
+| Bisson, Maude | 15:00 - 15:15 |
+| Djabia, Minsi Côme Maximilien | 15:15 - 15:30 |
+| Georges, Eugénio Junior | 15:30 - 15:45 |
+| Lachhab, Taoufik & Saiah, Houssem | 15:45 - 16:00 |
+| Ngapdo Mbogning, Glawdys | 16:00 - 16:15 |
+| Allao, Oulfath | 16:15 - 16:30 |
+| Beaupré, Nicolas & Simard, Charles-Antoine | 16:30 - 16:45 |
+| Belleau, Brian | 16:45 - 17:00 |

@@ -43,11 +43,11 @@ features:
     details: Livrables, rétroaction et diagramme de classes.
     link: /enonces/fin-sprint
     linkText: Énoncé
-  # - icon: ✅
-  #   title: Finalisation du projet
-  #   details: Stabilisation, documentation et release .exe.
-  #   link: /enonces/finalisation
-  #   linkText: Énoncé
+  - icon: ✅
+    title: Finalisation du projet
+    details: Stabilisation, documentation et release .exe.
+    link: /enonces/finalisation
+    linkText: Énoncé
   # - icon: 🎤
   #   title: Présentation finale
   #   details: Déroulement et conseils pour une démo efficace.

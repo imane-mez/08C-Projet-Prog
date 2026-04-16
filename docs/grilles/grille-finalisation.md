@@ -24,7 +24,7 @@
 
 ---
 
-## Qualité du code et documentation technique (20%)
+## Qualité du code et documentation technique (15%)
 
 | Niveau | Description                                                                 | Note |
 |--------|-----------------------------------------------------------------------------|------|
@@ -48,7 +48,7 @@
 
 ---
 
-## Présentation finale (15%)
+## Présentation finale (20%)
 
 | Niveau | Description                                                                 | Note |
 |--------|-----------------------------------------------------------------------------|------|

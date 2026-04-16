@@ -14,7 +14,7 @@ Votre travail de stabilisation doit inclure les éléments suivants :
 - Optimiser le code si nécessaire pour assurer la performance et la maintenabilité.
 
 ### Finition de l’interface graphique
-- Compléter l’interface utilisateur (UI) pour qu’elle soit cohérente, esthétique, ergonomique et exempte de fautes de français (-1 pt/faute).
+- Compléter l’interface utilisateur (UI) pour qu’elle soit cohérente, esthétique, ergonomique et exempte de fautes de français.
 - Vérifier que tous les contrôles sont accessibles et fonctionnels.
 
 ### Gestion et communication des erreurs
@@ -62,15 +62,14 @@ Inclure dans le **README** du dépôt Git :
 - Mettre à jour l’outil de gestion de projet (**GitHub Projects**) avec l’état final des tâches.
 
 ## Procédure de remise
-- Rien à remettre dans **LÉA**. Votre dépôt doit être à jour d’ici la date de remise.
+- À remettre sur **LÉA** un document texte contenant :
+    - Le lien vers votre **dépôt de code distant**.
+    - Le lien vers votre **tableau Kanban** (GitHub Project).
 - Code source complet dans le dépôt distant (branche principale à jour).
-- Projet exécutable **(.exe sous Windows)** téléchargeable dans une [Release GitHub](https://docs.github.com/en/repositories/releasing-projects-on-github/managing-releases-in-a-repository).
-- **Date limite : mardi 9 décembre à 8h00 (jour de la présentation).**
-- Pénalité : **-10 % par jour de retard** (si le dépôt est modifié après la date de remise, max 3 jours).
-- Voir la grille de correction avec critères détaillés.
+- Installateur **(.exe sous Windows)** téléchargeable dans une [Release GitHub](https://docs.github.com/en/repositories/releasing-projects-on-github/managing-releases-in-a-repository).
 
 ::: warning Date limite
-Mardi **9 décembre avant 8h00 (jour de la présentation)**  
+**Le jour de la présentation** : Voir la date et l'heure sur **Léa**.  
 Pénalité : **-10 % par jour de retard** (si le dépôt est modifié après la date de remise, max 3 jours).
 :::
 
@@ -92,7 +91,7 @@ Pénalité : **-10 % par jour de retard** (si le dépôt est modifié après la 
 ### Documentation et dépôt
 - Compléter le README et la documentation technique.
 - Nettoyer le code, commenter et vérifier la cohérence du projet.
-- Produire une **Release GitHub** contenant l’exécutable `.exe`.
+- Produire une **Release GitHub** contenant l’installateur `.exe`.
 
 ### Clôture
 - Vérifier que tout est présent et fonctionnel dans le dépôt GitHub.

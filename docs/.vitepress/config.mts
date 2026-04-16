@@ -23,9 +23,9 @@ export default defineConfig({
         text: 'Énoncés',
         items: [
           { text: 'Planification du projet', link: '/enonces/planif-projet' },
-          { text: 'Planification de sprint', link: '/enonces/planif-sprint' } //,
+          { text: 'Planification de sprint', link: '/enonces/planif-sprint' },
           // { text: 'Rapport de fin de sprint', link: '/enonces/fin-sprint' },
-          // { text: 'Finalisation du projet', link: '/enonces/finalisation' },
+          { text: 'Finalisation du projet <span style="color: var(--vp-c-brand); font-weight: bold;"> ✨Nouveau</span>', link: '/enonces/finalisation' },
           // { text: 'Présentation finale', link: '/enonces/presentation-finale' }
         ]
        },
@@ -33,8 +33,8 @@ export default defineConfig({
         text: 'Grilles', 
         items: [
           { text: 'Planification du projet', link: '/grilles/grille-planif-projet' },
-          { text: 'Sprint (complet)', link: '/grilles/grille-sprint' } //,
-          // { text: 'Finalisation du projet', link: '/grilles/grille-finalisation' }
+          { text: 'Sprint (complet)', link: '/grilles/grille-sprint' } ,
+          { text: 'Finalisation du projet <span style="color: var(--vp-c-brand); font-weight: bold;"> ✨Nouveau</span>', link: '/grilles/grille-finalisation' }
         ]
        },
       {
@@ -48,7 +48,8 @@ export default defineConfig({
           { text: 'Normes de nomenclature', link: '/ressources/normes_nomenclature_code' },
           { text: 'Diagrammes de classes', link: '/ressources/diagrammes-de-classes' },
           { text: 'SQLite', link: '/ressources/sqlite' },
-          // { text: 'GitHub Release', link: '/ressources/github-release' },
+          { text: 'GitHub Release <span style="color: var(--vp-c-brand); font-weight: bold;"> ✨Nouveau</span>', link: '/ressources/github-release' },
+          { text: 'Installateur d\'application WPF <span style="color: var(--vp-c-brand); font-weight: bold;"> ✨Nouveau</span>', link: '/ressources/setup' },
           { text: 'Liens utiles', link: '/ressources/liens-utiles' }
         ]
       }
@@ -72,9 +73,9 @@ export default defineConfig({
         text: 'Énoncés',
         items: [
           { text: 'Planification du projet', link: '/enonces/planif-projet' },
-          { text: 'Planification de sprint', link: '/enonces/planif-sprint' }
+          { text: 'Planification de sprint', link: '/enonces/planif-sprint' },
           // { text: 'Rapport de fin de sprint', link: '/enonces/fin-sprint' } ,
-          // { text: 'Finalisation du projet', link: '/enonces/finalisation' },
+          { text: 'Finalisation du projet <span style="color: var(--vp-c-brand); font-weight: bold;"> ✨Nouveau</span>', link: '/enonces/finalisation' },
           // { text: 'Présentation finale', link: '/enonces/presentation-finale' }
         ]
       },
@@ -83,7 +84,7 @@ export default defineConfig({
         items: [
           { text: 'Planification du projet', link: '/grilles/grille-planif-projet' },
           { text: 'Sprint (complet)', link: '/grilles/grille-sprint' },
-          // { text: 'Finalisation du projet', link: '/grilles/grille-finalisation' }
+          { text: 'Finalisation du projet <span style="color: var(--vp-c-brand); font-weight: bold;"> ✨Nouveau</span>', link: '/grilles/grille-finalisation' }
         ]
       },
       {
@@ -105,7 +106,8 @@ export default defineConfig({
           { text: 'Normes de nomenclature', link: '/ressources/normes_nomenclature_code' },
           { text: 'Diagrammes de classes', link: '/ressources/diagrammes-de-classes' },
           { text: 'SQLite', link: '/ressources/sqlite' },
-          // { text: 'GitHub Release', link: '/ressources/github-release' },
+          { text: 'GitHub Release <span style="color: var(--vp-c-brand); font-weight: bold;"> ✨Nouveau</span>', link: '/ressources/github-release' },
+          { text: 'Installateur d\'application WPF <span style="color: var(--vp-c-brand); font-weight: bold;"> ✨Nouveau</span>', link: '/ressources/setup' } ,
           { text: 'Liens utiles', link: '/ressources/liens-utiles' }
         ]
       }

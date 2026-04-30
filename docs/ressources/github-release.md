@@ -13,8 +13,7 @@ Suivre la [procédure détaillée](../ressources/setup.md) qui sera également p
 ---
 
 ### 2. Préparer le fichier à publier
-À partir de l'explorateur windows, renommer le fichier installateur (`setup.exe`) se trouvant dans le dossier Release du projet installateur.<br>
-Exemple de nom : `MonApplication-v1.0.0.exe`.
+À partir de l'explorateur windows et du dossier `Release` se trouvant dans le dossier du projet installateur,  créez une archive contenant les 2 fichiers `.exe` et `.msi`. L'archive doit avoir un nom qui ressemblerait à `NomDeVotreApplication-v1.0.0.zip`.
 
 ---
 
@@ -36,7 +35,7 @@ Exemple de nom : `MonApplication-v1.0.0.exe`.
   Corrections :
   - Résolution du bogue d’affichage
   ```
-5. Glisser le fichier d'installation `MonApplication-v1.0.0.exe` dans la section **Attach binaries**.  
+5. Glisser le fichier d'installation `MonApplication-v1.0.0.zip` dans la section **Attach binaries**.  
 6. Cliquer sur **Publish release**.
 
 La page de release sera disponible à une adresse du type : https://github.com/nom-utilisateur/nom-repo/releases/tag/v1.0.0

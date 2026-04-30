@@ -26,7 +26,7 @@ export default defineConfig({
           { text: 'Planification de sprint', link: '/enonces/planif-sprint' },
           // { text: 'Rapport de fin de sprint', link: '/enonces/fin-sprint' },
           { text: 'Finalisation du projet <span style="color: var(--vp-c-brand); font-weight: bold;"> ✨Nouveau</span>', link: '/enonces/finalisation' },
-          // { text: 'Présentation finale', link: '/enonces/presentation-finale' }
+          { text: 'Présentation finale <span style="color: var(--vp-c-brand); font-weight: bold;"> ✨Nouveau</span>', link: '/enonces/presentation-finale' }
         ]
        },
       { 
@@ -76,7 +76,7 @@ export default defineConfig({
           { text: 'Planification de sprint', link: '/enonces/planif-sprint' },
           // { text: 'Rapport de fin de sprint', link: '/enonces/fin-sprint' } ,
           { text: 'Finalisation du projet <span style="color: var(--vp-c-brand); font-weight: bold;"> ✨Nouveau</span>', link: '/enonces/finalisation' },
-          // { text: 'Présentation finale', link: '/enonces/presentation-finale' }
+          { text: 'Présentation finale <span style="color: var(--vp-c-brand); font-weight: bold;"> ✨Nouveau</span>', link: '/enonces/presentation-finale' }
         ]
       },
       {

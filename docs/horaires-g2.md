@@ -4,6 +4,7 @@
 
 | Étudiant | Heure de passage |
 |----------|-----------------|
+| Beaupré, Nicolas & Simard, Charles-Antoine | |
 | Belleau, Brian | |
 | Bisson, Maude | |
 | Djabia, Minsi Côme Maximilien | |
@@ -11,4 +12,3 @@
 | Lachhab, Taoufik & Saiah, Houssem | |
 | Ngapdo Mbogning, Glawdys | |
 | Allao, Oulfath | |
-| Beaupré, Nicolas & Simard, Charles-Antoine | |

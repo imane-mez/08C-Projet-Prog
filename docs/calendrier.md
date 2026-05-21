@@ -18,9 +18,9 @@
 | 9 | 26 mars | 23 mars | Rencontres : suivi du Sprint 3 | — |
 | 10 | 2 avr. | 30 mars. | Rencontres : suivi du Sprint 3 | — |
 | 11 | 9 avr. | 13 avr. | <Badge type="tip" text="Présentation" /> **Sprint 3** | <Badge type="warning" text="Remise" /> *Rapport fin de sprint 3* |
-| 12 | 16 avr. | 20 avr. | — | <Badge type="info" text="Énoncé" /> **Finalisation du projet** |
+| 12 | 16 avr. | 20 avr. | — | <Badge type="info" text="Énoncés" /> <br> **Finalisation du projet** <br> **Création d'installateur et GitHub Release**<br>|
 | 13 | 23 avr. | 27 avr. | Rencontres : suivi | — |
-| 14 | 30 avr. | 4 mai | Rencontres : suivi final | — |
-| 15 | 7 mai | 11 mai | <Badge type="tip" text="Présentations" /> **Finales (devant le groupe)** | <Badge type="danger" text="Remise finale" /> **GitHub Release**<br> |
+| 14 | 30 avr. | 4 mai | Rencontres : suivi final | <Badge type="info" text="Énoncés" /> **Présentations finales**|
+| 15 | 7 mai | 11 mai | <Badge type="tip" text="Présentations" /> **Finales (devant le groupe)** | <Badge type="danger" text="Remise finale" /> |
 | 16 | — | — | Réservé en cas de besoin | — |
  
